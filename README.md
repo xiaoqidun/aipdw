@@ -4,7 +4,7 @@ Golang 高德IP定位库
 
 # 在线演示
 
-- [https://aite.xyz/aipdw](https://aite.xyz/aipdw)
+- [https://aite.xyz/demo/aipdw](https://aite.xyz/demo/aipdw)
 
 # 类似项目
 
